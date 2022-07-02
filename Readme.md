@@ -2,6 +2,8 @@
 
 ### 1.1 项目简介
 
+![simulation](Figures/simulation.jpg)
+
 ### 1.2 项目核心
 
 
