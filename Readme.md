@@ -2,7 +2,7 @@
 
 ### 1.1 项目简介
 
-![simulation](Figures/simulation.jpg)
+<img src="Figures/simulation.jpg" alt="simulation" style="zoom: 50%;" />
 
 ### 1.2 项目核心
 
