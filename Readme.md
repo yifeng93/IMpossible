@@ -2,7 +2,7 @@
 
 ### 1.1 项目简介
 
-<img src="Figures/simulation.jpg" alt="simulation" style="zoom: 50%;" />
+<img src="Figures/general_route.jpg" alt="general_route" style="zoom:80%;" />
 
 ### 1.2 项目核心
 
