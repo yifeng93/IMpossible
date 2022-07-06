@@ -1,49 +1,36 @@
-<a name="index">**目录**</a>
-<br>
-&emsp;<a href="#0">1. 项目介绍</a>  
-&emsp;&emsp;<a href="#1">1.1 项目简介</a>  
-&emsp;&emsp;<a href="#2">1.2 项目核心</a>  
-&emsp;<a href="#3">2. 项目实施</a>  
-&emsp;&emsp;<a href="#4">2.1 项目准备</a>  
-&emsp;&emsp;&emsp;<a href="#5">2.1.1 设备</a>  
-&emsp;&emsp;&emsp;<a href="#6">2.1.2 采访文稿准备</a>  
-&emsp;&emsp;&emsp;<a href="#7">2.1.3 平台宣传</a>  
-&emsp;&emsp;<a href="#8">2.2 项目分工</a>  
-&emsp;&emsp;<a href="#9">2.3 时间线</a>  
-&emsp;<a href="#10">3. 应急预案</a>  
+## 1. 项目介绍
+
+### 1.1 项目背景
+
+​		史蒂芬·平克在《当下的启蒙》里通过多个角度的实证数据论证出**“世界变得越来越好了”**。比如，在过去的几百年历史中，人类的平均预期寿命大幅提高，孩童的营养状况以及教育水平得到改善，人们的工作环境普遍得到改善等等。但是，书中也引用2015年底的一项民意调查，其结果显示大部分人都认为**“世界正在走下坡路”**以及**“这个世界变得越来越糟糕”**。 而2015年底的这项民意调查主要是在14个发达国家进行的，比如英国，丹麦，芬兰等。2020年爆发全球性的新冠疫情打乱了全世界的节奏。我想，如果现在再进行一次类似的民意调查，其结果应该会比2015年的那次更加悲观吧。
+
+​		没有实证研究能表明过去2年多的诸多事件与新冠疫情有直接的因果关系，但是新冠疫情似乎又很像是一点火苗，点燃了世界的各个矛盾。放大了看，国际关系开始重新洗牌：俄乌战争迟迟不停，中美关系降至冰点，世界能源价格暴涨，欧美世界通货膨胀达到历史高位等。 而假如我们放至微观层面来看，就会发现更加可怕。因为，时代的一粒灰，落到个人头上就是一座山。
 
 
-## <a name="0">1. 项目介绍</a><a style="float:right;text-decoration:none;" href="#index">[回到顶部]</a>
-
-
-
-### <a name="1">1.1 项目简介</a><a style="float:right;text-decoration:none;" href="#index">[回到顶部]</a>
-
-全球已经进入后疫情时代，
 
 <img src="Figures/general_route.jpg" alt="general_route" style="zoom:80%;" />
 
-### <a name="2">1.2 项目核心</a><a style="float:right;text-decoration:none;" href="#index">[回到顶部]</a>
+### 1.2 项目核心
 
 
 
-## <a name="3">2. 项目实施</a><a style="float:right;text-decoration:none;" href="#index">[回到顶部]</a>
+## 2. 项目实施
 
-### <a name="4">2.1 项目准备</a><a style="float:right;text-decoration:none;" href="#index">[回到顶部]</a>
+### 2.1 项目准备
 
-#### <a name="5">2.1.1 设备</a><a style="float:right;text-decoration:none;" href="#index">[回到顶部]</a>
+#### 2.1.1 设备
 
 设备准备相关文档，请移步[设备准备清单](./OtherReadMe/Equipment.md)。其中包含了拍摄设备+户外及临时住宿装备+个人物品清单等。
 
-#### <a name="6">2.1.2 采访文稿准备</a><a style="float:right;text-decoration:none;" href="#index">[回到顶部]</a>
+#### 2.1.2 采访文稿准备
 
 采访文稿相关文档，请移步[采访文稿](./OtherReadMe/Scripts.md)。其中包含了采访的一些问题集以及对相应问题集的补充文档及相关知识。
 
-#### <a name="7">2.1.3 平台宣传</a><a style="float:right;text-decoration:none;" href="#index">[回到顶部]</a>
+#### 2.1.3 平台宣传
 
 平台宣传相关文档，请移步[平台宣传](./OtherReadMe/platform.md)。其中包含了该项目在不同的平台发放的不同内容。
 
-### <a name="8">2.2 项目分工</a><a style="float:right;text-decoration:none;" href="#index">[回到顶部]</a>
+### 2.2 项目分工
 
 我们将该项目分工划分为三个大的方面。 
 
@@ -52,7 +39,7 @@
 3.  **后台**：主要包含对原始内容进行加工，包括视频剪辑，图文处理等。同时管理各大平台的粉丝互动以及信息汇总。
 
 
-### <a name="9">2.3 时间线</a><a style="float:right;text-decoration:none;" href="#index">[回到顶部]</a>
+### 2.3 时间线
 
-## <a name="10">3. 应急预案</a><a style="float:right;text-decoration:none;" href="#index">[回到顶部]</a>
+## 3. 应急预案
 
