@@ -25,6 +25,11 @@
 
 ### 1.3 欧洲知识分子
 
+1. 欧洲（欧盟）目前面临的最大的问题是什么？
+2. 世界的经济发展陷入到了滞胀的周期了么？
+3. 目前你的研究领域有没有受到非学术因素的影响，比如政治。
+4. 其他
+
 **提前邮件联系大学教授以及中学的校长等**
 
 | School                 | People | Status |
@@ -33,3 +38,19 @@
 |                        |        |        |
 |                        |        |        |
 |                        |        |        |
+
+## 2. 采访文稿
+
+### 2.1 欧洲知识分子
+
+1. **About international relationship** 
+
+   1. Judging from media reports, the Russian-Ukrainian war seems to be related to two aspects. First, the territorial conflict between Russia and Ukraine. Second, Russia is not satisfied with the continuous eastward expansion of NATO. From your point of view, what do you think is the essential contradiction of the Russian-Ukrainian war?
+   2. What do you think is the biggest impact of the Russian-Ukrainian war on EU countries, and what is the impact on the world?
+   3. I don't know if such an expression is appropriate. China, the United States and the European Union are the most important players in current international relations. But it seems that sometimes the EU is embarrassed to be caught between China and the US. On the one hand, the EU does not want to be completely dominated by the United States, and on the other hand, it cannot completely turn to China. What do you think of the situation in the EU?
+
+   
+
+2. **About COVID-19**
+   1. Has your perception of COVID-19 changed in the past 2+ years?
+   2. 
