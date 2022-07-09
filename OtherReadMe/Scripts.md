@@ -52,5 +52,25 @@
    
 
 2. **About COVID-19**
+
    1. Has your perception of COVID-19 changed in the past 2+ years?
-   2. 
+   2. When do you think the COVID-19 pandemic will end?
+   3. How many people in your social circle are infected with COVID-19? Has anyone lost their life due to COVID-19?
+   4. Do you know the epidemic prevention policies of other countries?
+
+3.  **About IMprossible project**
+
+   1. How do you feel about this project, or rather, how do you feel about my actions?
+   2. For the post-90s and post-00s, the Internet is perhaps the most common channel for obtaining information. And fieldwork and offline conversations have become less and less common. What do you think of this phenomenon?
+   3. If you were back in your 20s now, would you do something like this? Or you have already done it.
+
+### 2.2 留学生
+
+1. **基本信息**
+   1. 来自哪里，多大年纪，出国留学的专业，出国留学的时间。
+   2. 为什么出国留学？
+2. **有关疫情**
+   1. 疫情爆发以来是否有回国呢？【此问题针对留学3年+的学生】，是什么时间回国的，整个回国的过程有什么感受？
+   2. 你在国外什么时刻感受到了疫情的存在，什么时候又觉得它不存在。
+   3. 你认为目前的防疫政策（国内）合理么？以及原因。
+   4. 疫情期间，你认为自己在哪些方面发生了改变么？【思想】
