@@ -26,6 +26,10 @@ a) Do you think COVID-19 has changed your life principal or your perception of v
 
 今天没什么想法。
 
+<<<<<<< Updated upstream
 
 
 真的没什么想法
+=======
+今天还是没什么想法
+>>>>>>> Stashed changes
