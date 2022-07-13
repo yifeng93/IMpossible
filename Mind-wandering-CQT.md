@@ -21,3 +21,6 @@ a) Do you think COVID-19 has changed your life principal or your perception of v
 ### 3. 平台宣传
 
 1. 如何把“可能性”与问题中的“后疫情时代”联系在一起？可能性是一个相对positive的phrase，而后疫情时代相对可预见的回答，可能会是一个neutral to negative feedback（联合国机构报告饥饿人口比例上升，IMF认为全球经济前景明显变暗，无法排除23年全球经济衰退），如何去陈述可能性，是在什么维度上的可能性，对于什么的可能性？
+
+## 7月13日
+
