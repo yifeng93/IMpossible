@@ -24,3 +24,4 @@ a) Do you think COVID-19 has changed your life principal or your perception of v
 
 ## 7月13日
 
+今天没什么想法
