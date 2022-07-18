@@ -28,4 +28,3 @@ a) Do you think COVID-19 has changed your life principal or your perception of v
 
 
 真的没什么想法
-···
