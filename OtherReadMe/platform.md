@@ -16,6 +16,15 @@
 
 ### 2. B站
 
+账户名：
+
+首先确定基调，是偏严肃的人文向？（e.g.十三邀）还是偏轻松的谈话向？（e.g.阿福Thomas）
+
+1. IMpossible在路上
+2. IMpossible未完待续
+3. IMPossible环欧之路
+4. xx游记IMpossible
+
 ### 3. YouTube
 
 ### 4. TikTok
