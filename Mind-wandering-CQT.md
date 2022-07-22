@@ -40,7 +40,7 @@ a) Do you think COVID-19 has changed your life principal or your perception of v
 
  
 
-**A journey with challenge, A wish to reach the stars.**
+**A journey with challenge, A wish to reach the truth.**
 
 An undefinable and peculiar road trip and humanity interview. To learn the truth of the world via fieldwork and in-depth conversations.
 
