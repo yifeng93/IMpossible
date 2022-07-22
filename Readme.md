@@ -68,7 +68,7 @@
 
 #### <a name="7">2.1.2 采访文稿准备</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 
-采访文稿相关文档，请移步[采访文稿](./OtherReadMe/Scripts.md)。其中包含了采访的哪些对方，一些问题集以及对相应问题集的补充文档及相关知识。关于沿途可能要合作的自媒体博主，请移步[博主通讯录](./OtherReadMe/KOL.md)。
+采访文稿相关文档，请移步[采访文稿](./OtherReadMe/Scripts.md)。其中包含了采访的哪些对方，一些问题集以及对相应问题集的补充文档及相关知识。关于沿途可能要合作的自媒体博主，请移步[博主通讯录](./OtherReadMe/KOL.md)。可能想要采访的机构以及行业领军人物以及知识分子，请移步[公众人物通讯录](./OtherReadMe/PublicFigure.md)。
 
 #### <a name="8">2.1.3 平台宣传</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 
