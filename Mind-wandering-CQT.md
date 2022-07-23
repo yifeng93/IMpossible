@@ -189,3 +189,28 @@ Our presentation
 
 We will present our values and goals in different ways. The specific performance is an exploratory road trip documentary, a series of in-depth interviews with thoughtful significance, and finally a series of articles and photographic works. Click on our platforms to explore.
 
+
+
+## 片头构思 - 7/23
+
+旁白内容（初稿）：
+
+2020年，好像不知不觉变成了全球无数人的生活拐点，无论从宏观或是微观，我们都被时代的洪流推向了不可回头的另一条河流。
+
+世界变得越发割裂，负面新闻占据了大家的视线，科技的发达让这个世界似乎变得互联，然而各种爆炸性的，非黑即白的叙事，却仿佛在把所有人推远。人们生活在自己的信息茧房中，被不断堆砌的信息，淹没在了自己建筑的高墙之内。
+
+我们在不断地解决着生活给我们带来的各种难题，却是否有静下心来想过：我们想对这个世界，提出怎么样的问题。
+
+这个疫情，到底给大家带来了什么呢？
+
+又或者，疫情在如今纷繁复杂的形势中，到底扮演了什么样的角色呢？
+
+这个世界，真的变得更糟了吗？
+
+（pause）
+
+我想重新认识这个世界。
+
+用自己的脚步去丈量，用自己的思维去思考。
+
+（TBD )
