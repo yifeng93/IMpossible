@@ -72,7 +72,7 @@
 
 #### <a name="8">2.1.3 平台宣传</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 
-平台宣传相关文档，请移步[平台宣传](./OtherReadMe/platform.md)。其中包含了该项目在不同的平台发放的不同内容。
+平台宣传相关文档，请移步[平台宣传](./OtherReadMe/platform.md)。其中包含了该项目在不同的平台发放的不同内容。同时，这里也包含着一个文档，是关于剪辑里可能使用的配乐的。请移步[音乐列表](.//OtherReadMe/MusicScore.md)。
 
 ### <a name="9">2.2 项目分工</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 
