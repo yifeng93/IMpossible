@@ -21,7 +21,7 @@
 
 项目的中文名叫**行路摘星辰**，取自李白的《行路难》与《夜宿山寺》。然后我们团队的价值观是**歧路今安在？愿可摘星辰**。寓意为我们认为当今世界是复杂而割裂的，而真正的“大道”在哪里呢？希望能够通过行走（实践）的方式，来认知世界，摘下星辰。而英文名我取为IMpossible，看起来这个词是impossible(不可能)，但是前面两个字母是IM(我)，而后面其实是possible(可能)，寓意为我能够将不可能变成可能。在这个部分，项目背景，项目内容以及项目的核心将会被介绍。
 
-在项目准备期，我的一些随机的思维漫步会记录在[思维漫步_Yifeng](Mind-wandering.md)。蔡同学的思维漫步会记录在[思维漫步_Qiuting](Mind-wandering-CQT.md)。
+在项目准备期，我的一些随机的思维漫步会记录在[思维漫步_Yifeng](Mind-wandering.md)。蔡同学的思维漫步会记录在[思维漫步_Qiuting](Mind-wandering-CQT.md)。。
 
 ### <a name="1">1.1 项目背景 </a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 
