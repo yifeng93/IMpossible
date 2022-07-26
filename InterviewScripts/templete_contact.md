@@ -1,5 +1,9 @@
 ## 给博主们发
 
+**先确认该人是否在我们想要的目的地，再编辑邮件或者私信，而且编辑的时候一定要根据这个人的一些内容来编辑，不要直接复制粘贴哈**
+
+
+
 ### 德国小哥duke杜克
 
 Dear Duke,
@@ -10,7 +14,7 @@ In short, I will start from the densely populated Western Europe to the sparsely
 
 More detailed information is provided on the project official website: http://www.yifengluo.com/index-EN.html
 
-I noticed that your content on Blibili and YouTube is great, and you want to know the world through music. This is very relevant to the theme of our project. We want to know your story and conduct interviews with you (our interviews are not rigid and formal, more like young people learning about the world through dialogue).
+**I noticed that your content on Blibili and YouTube is great, and you want to know the world through music. This is very relevant to the theme of our project. We want to know your story and conduct interviews with you (our interviews are not rigid and formal, more like young people learning about the world through dialogue).**
 
 I noticed that you are in Hamburg, Germany, which is the main city our project will pass through. (I will arrive in Hamburg around August 20, we will negotiate with you for a more precise date). As you can see on our official website, we are also a group of idealistic young people, and we hope to have an in-depth dialogue with content creators who are full of positive energy like you.
 
