@@ -23,7 +23,7 @@
 
 
 
-在项目准备期，我的一些随机的思维漫步会记录在[思维漫步_Yifeng](Mind-wandering.md)。蔡同学的思维漫步会记录在[思维漫步_Qiuting](Mind-wandering-CQT.md)。77的思维漫步记录在[思维漫步 77](Mind-wandering-QQ.md)。
+在项目准备期，我的一些随机的思维漫步会记录在[思维漫步_Yifeng](Mind-wandering.md)。蔡同学的思维漫步会记录在[思维漫步_Qiuting](Mind-wandering-CQT.md)。77的思维漫步记录在[思维漫步 77](Mind-wandering-QQ.md)。Alma的思维漫步记录会在[思维漫步](Mind-wandering-Alma.md)。
 
 
 ### <a name="1">1.1 项目背景 </a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
