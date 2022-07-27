@@ -10,7 +10,7 @@ Dear Duke,
 
 First of all, let me introduce myself, my name is Yifeng Luo. I am in the Netherlands and currently working on a very idealistic project called "IMpossible" with my team. The theme of our first season is "Post-COVID19 Era - Is the world really getting worse?" 
 
-In short, I will start from the densely populated Western Europe to the sparsely populated Arctic Circle to explore the impact of the epidemic on different industries, discover people's stories during the epidemic and pursue the hope of the post-epidemic era.
+In short, I will start from the densely populated Western Europe to the sparsely populated Arctic Circle to explore the impact of the COVID-19 epidemic on different industries, discover people's stories during the epidemic and pursue the hope of the post-epidemic era.
 
 More detailed information is provided on the project official website: http://www.yifengluo.com/index-EN.html
 
@@ -36,7 +36,7 @@ Founder of **IMpossible**
 
 Official Website: http://www.yifengluo.com/index-EN.html
 
-Email 1: [yifeng_possible@outlook.com](mailto:yifeng_possible@outlook.com)
+Email 1: [yifeng_allpossible@outlook.com](mailto:yifeng_allpossible@outlook.com)
 
 Email 2: [yifeng.impossible@gmail.com](mailto:yifeng.impossible@gmail.com)
 
