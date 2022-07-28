@@ -73,6 +73,16 @@
 
 采访文稿相关文档，请移步[采访文稿](./OtherReadMe/Scripts.md)。其中包含了采访的哪些对方，一些问题集以及对相应问题集的补充文档及相关知识。关于沿途可能要合作的自媒体博主，请移步[博主通讯录](./OtherReadMe/KOL.md)。可能想要采访的机构以及行业领军人物以及知识分子，请移步[公众人物通讯录](./OtherReadMe/PublicFigure.md)。
 
+**具体的人物采访文稿准备，请参见下表并跳转至具体页面**
+
+| 人物                                 | 备注           | 状态       |
+| ------------------------------------ | -------------- | ---------- |
+| [Felix](InterviewScripts/Felix.md)   | 大学教授       | 目前联络中 |
+| [安赛龙](InterviewScripts/安赛龙.md) | 羽毛球世界冠军 | 目前联络中 |
+| 德国小哥Duke                         |                |            |
+
+
+
 #### <a name="8">2.1.3 平台宣传</a><a style="float:right;text-decoration:none;" href="#index">[Top]</a>
 
 平台宣传相关文档，请移步[平台宣传](./OtherReadMe/platform.md)。其中包含了该项目在不同的平台发放的不同内容。同时，这里也包含着一个文档，是关于剪辑里可能使用的配乐的。请移步[音乐列表](.//OtherReadMe/MusicScore.md)。
