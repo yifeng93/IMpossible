@@ -79,3 +79,14 @@
    - setup in mind for shooting - location 
    - pretending to shot a product video 
    - German entertainment industry 
+   
+## 初见面
+
+- 划船
+- 看综艺
+- 唱歌
+- 读私信和评论
+- 介绍小镇
+- 坐下来的访谈
+  - 对于中国文化的了解度。
+  - 疫情期间感受到的变化，这两年做中国市场。
